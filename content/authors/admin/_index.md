@@ -3,7 +3,9 @@ role: PhD Student, Computer Science
 avatar_filename: avatar.png
 bio: ""
 interests:
-  - Internet
+  - InternetofThings
+  - MachineLearning
+  - Cybersecurity
 social:
   - icon: envelope
     icon_pack: fas
@@ -18,7 +20,7 @@ social:
     icon_pack: fab
     link: https://github.com/gcushen
 organizations:
-  - name: Missouri S&T
+  - name: Missouri University of Science & Technology
     url: www.mst.edu
 education:
   courses:
