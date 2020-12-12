@@ -39,7 +39,7 @@ highlight_name: false
 title: Venkata Sai Manoj Twarakavi
 email: ""
 ---
-I'm currently pursuing my Ph.D. in Computer Science at Missouri S&T. My advisor is [Prof. Tony Luo](https://tluocs.github.io). The current focus of my work is at the nexus of Artificial Intelligence, Cybersecurity & Internet of Things. I have previously worked on problems in Bitcoin, Permissioned & Private Blockchains and Social Network Analytics.
+I'm currently a first-year Ph.D. student in Computer Science at Missouri S&T. My advisor is [Prof. Tony Luo](https://tluocs.github.io). The current focus of my work is at the nexus of Artificial Intelligence, Cybersecurity & Internet of Things. I have previously worked on problems in Bitcoin, Permissioned & Private Blockchains and Social Network Analytics.
 
 Before coming to S&T, I completed my Masters in Computer Science from the University of Texas at Arlington. Previously, I worked as a Research Assistant at the Indian Institute of Science under [Prof. Y Narahari](https://gtl.csa.iisc.ac.in/hari/) and also as an intern at Dassault Systèmes, India. I obtained a B.E. in Computer Science & Engineering from MS Ramaiah Institute of Technology, India.
 
