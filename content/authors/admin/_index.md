@@ -21,7 +21,7 @@ social:
     icon_pack: fab
     link: https://github.com/gcushen
 organizations:
-  - name: Missouri University of Science & Technology
+  - name: Missouri S&T
     url: www.mst.edu
 education:
   courses:
