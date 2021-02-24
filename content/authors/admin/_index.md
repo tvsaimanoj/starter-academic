@@ -36,7 +36,7 @@ user_groups:
   - Researchers
   - Visitors
 highlight_name: false
-title: Venkata Sai Manoj Twarakavi
+title: Venkata Twarakavi
 email: ""
 ---
 I'm currently a first-year Ph.D. student in Computer Science at Missouri S&T. My advisor is [Prof. Tony Luo](https://tluocs.github.io). The current focus of my work is at the nexus of Artificial Intelligence, Cybersecurity & Internet of Things. I have previously worked on problems in Bitcoin, Permissioned & Private Blockchains and Social Network Analytics.
