@@ -20,7 +20,7 @@ social:
     icon_pack: fab
     link: https://github.com/gcushen
 organizations:
-  - name: Missouri University of Science & Technology
+  - name: SUNY Buffalo
     url: www.mst.edu
 education:
   courses:
